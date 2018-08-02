@@ -2,6 +2,7 @@
 
  -  WiFi: webcontrol
  -  WiFi Pass: webcontrol
+ -  Browser url: http://192.168.4.1
 
 # Upload instruction
 
