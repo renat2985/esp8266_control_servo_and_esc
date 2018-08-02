@@ -1,5 +1,8 @@
 # ESP8266 Control servo and ESC in Browser
 
+  -  Wifi: webcontrol
+  -  Wifi Pass: webcontrol
+
 # Upload instruction
 
 ## Specification .bin files
