@@ -14,7 +14,7 @@
   -  Flash Frequency: 40Mhz
   -  Upload Speed: 115200
 
-## [Download bin file here](https://github.com/renat2985/esp8266_control_servo_and_esc/raw/master/wifiControl.ino.generic.bin)
+## [Download bin file here](https://github.com/renat2985/esp8266_control_servo_and_esc/raw/master/esp8266_control_servo_and_esc.zip)
 
 ![nodemcu-flasher](https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/nodemcu-flasher.png)
 ### NodeMCU Flasher
