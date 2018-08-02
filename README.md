@@ -24,7 +24,7 @@ Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master
 
 
 ## Construction PIN
-- GPIO 4 - SEROV or ESC
+- GPIO 4 - SERVO or ESC
 - GPIO 5 - SERVO
 - GPIO 12 - Relay
 - GPIO 13 - Relay
@@ -41,7 +41,7 @@ Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master
 <a href="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/phone3.png"><img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/phone3.png" align="left" width="250" ></a>
 
 
-###https://photos.app.goo.gl/9zVoT1EmmLsRfqk97
+### https://photos.app.goo.gl/9zVoT1EmmLsRfqk97
 
 ## Donation
 
