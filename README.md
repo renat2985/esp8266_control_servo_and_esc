@@ -1,4 +1,4 @@
-# ESP8266 Control Servo and ESC
+# ESP8266 Control servo and ESC in Browser
 
 # Upload instruction
 
@@ -35,12 +35,13 @@ Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master
 
 
 
-### Mobile web control (Images)
+### Mobile Browser web control (Images)
 <a href="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/phone1.png"><img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/phone1.png" align="left" width="250" ></a>
 <a href="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/phone2.png"><img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/phone2.png" align="left" width="250" ></a>
 <a href="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/phone3.png"><img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/phone3.png" align="left" width="250" ></a>
 
-Othe image: https://photos.app.goo.gl/9zVoT1EmmLsRfqk97
+
+###https://photos.app.goo.gl/9zVoT1EmmLsRfqk97
 
 ## Donation
 
