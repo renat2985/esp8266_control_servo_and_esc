@@ -6,13 +6,13 @@
 
 # Upload instruction
 
-## Specification .bin files
+### Specification .bin files
   -  Module: Generic ESP8266 Module
   -  Flash Size: 1M(256K SPIFFS)
   -  CPU Frequency: 80Mhz
   -  Flash Mode: dio
   -  Flash Frequency: 40Mhz
-  -  Upload Speed: 115200
+  -  Upload Speed: 921600
 
 ## [Download bin file here](https://github.com/renat2985/esp8266_control_servo_and_esc/raw/master/esp8266_control_servo_and_esc.zip)
 
