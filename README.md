@@ -30,6 +30,7 @@ Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master
 ## Construction PIN
 - GPIO 4 - SERVO or ESC
 - GPIO 5 - SERVO
+- GPIO 2 - SERVO
 - GPIO 12 - Relay
 - GPIO 13 - Relay
 - GPIO 14 - Relay
