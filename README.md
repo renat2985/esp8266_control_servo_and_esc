@@ -62,9 +62,3 @@ If you like this project, you can give me a cup of coffee :coffee:
 #### PayPal
 
 - [https://www.paypal.me/RKevrels](https://www.paypal.me/RKevrels/5)
-
-#### WebMoney
-
-- Z242847016348
-- R466173026928
-- E555861976545
