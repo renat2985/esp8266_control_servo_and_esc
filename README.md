@@ -28,13 +28,14 @@ Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master
 
 
 ## Construction PIN
-- GPIO 4 - SERVO or ESC
-- GPIO 5 - SERVO
-- GPIO 2 - SERVO
-- GPIO 12 - Relay
-- GPIO 13 - Relay
-- GPIO 14 - Relay
-
+```
+D2 (GPIO 4) - SERVO or ESC
+D1 (GPIO 5) - SERVO
+D4 (GPIO 2) - SERVO
+D6 (GPIO 12) - Relay
+D7 (GPIO 13) - Relay
+D5 (GPIO 14) - Relay
+```
 ### Schematic
 ![alt](https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/schematic.png)
 
