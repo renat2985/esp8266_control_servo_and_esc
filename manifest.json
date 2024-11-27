@@ -7,7 +7,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         { "path": "./wifiControl.ino.generic.bin", "offset": 0 },
-        { "path": "./wifiControl.spiffs.bin","offset": 983040 }
+        { "path": "./wifiControl.spiffs.bin","offset": 766976 }
       ]
     }
   ]
