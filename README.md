@@ -1,5 +1,7 @@
 # ESP8266 Control servo and ESC in Browser
 
+This project makes it easy to control servos and electronic speed controllers (ESC) through a web interface using the ESP8266 module.
+
  -  WiFi: webcontrol
  -  WiFi Pass: webcontrol
  -  Browser url: http://192.168.4.1
