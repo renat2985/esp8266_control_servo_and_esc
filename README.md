@@ -5,8 +5,15 @@
  -  Browser url: http://192.168.4.1
 
 # Upload instruction
+## 🚀 Web installer (recommended)
 
-### Specification .bin files
+### Go to the web installer and follow instructions.
+
+### [https://renat2985.github.io/esp8266_control_servo_and_esc/](https://renat2985.github.io/esp8266_control_servo_and_esc/)
+
+### Or NodeMCU Flasher:
+
+#### Specification .bin files
 ```
 Module: Generic ESP8266 Module
 Flash Size: 1M(256K SPIFFS)
@@ -18,7 +25,8 @@ Upload Speed: 921600
 
 ## [Download bin file here](https://github.com/renat2985/esp8266_control_servo_and_esc/raw/master/esp8266_control_servo_and_esc.zip)
 
-![nodemcu-flasher](https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/nodemcu-flasher.png)
+<img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/nodemcu-flasher.png" width="400px">
+
 ### NodeMCU Flasher
 https://github.com/nodemcu/nodemcu-flasher
 Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe) or [Win64](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win64/Release/ESP8266Flasher.exe).
