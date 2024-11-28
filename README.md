@@ -10,8 +10,8 @@ This project makes it easy to control servos and electronic speed controllers (E
 # How it works:
 1. **After turning on the device:**
 
-    - A Wi-Fi network named “wificontrol-*” will be created.
-    - Connect to this network from your device, WiFi password: **wificontrol**.
+    - A Wi-Fi network named ```wificontrol-*``` will be created.
+    - Connect to this network from your device, WiFi password: ```wificontrol```.
       
       <img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/wifi.png" height="300px">
     
@@ -64,7 +64,7 @@ The following table shows the pin configuration for the components:
 | **D5**      | GPIO 14 | Relay          |
 
 ### Schematic NodeMCU / Wemos
-<img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/schematic.png" width="300px"> <img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/schematic2.png" width="300px">
+<img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/schematic.png" width="350px"> <img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/schematic2.png" width="350px">
 
 
 
