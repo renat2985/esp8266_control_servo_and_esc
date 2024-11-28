@@ -17,6 +17,7 @@ This project makes it easy to control servos and electronic speed controllers (E
     
     - Open a browser and enter the address **http://192.168.4.1** to access the web interface.
       
+      [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9NU7gCPBSDI/0.jpg)](https://www.youtube.com/watch?v=9NU7gCPBSDI)
 
 
 # Upload instruction
@@ -41,16 +42,10 @@ Upload Speed: 921600
 
 <img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/nodemcu-flasher.png" width="400px">
 
-### NodeMCU Flasher
-https://github.com/nodemcu/nodemcu-flasher Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe) or [Win64](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win64/Release/ESP8266Flasher.exe).
+NodeMCU Flasher https://github.com/nodemcu/nodemcu-flasher Download Release: [Win32](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe) or [Win64](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win64/Release/ESP8266Flasher.exe).
 
 
-## Work example (Video)
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9NU7gCPBSDI/0.jpg)](https://www.youtube.com/watch?v=9NU7gCPBSDI)
-
-
-## Pin Assignment
+# Pin Assignment
 
 The following table shows the pin configuration for the components:
 
@@ -63,7 +58,7 @@ The following table shows the pin configuration for the components:
 | **D7**      | GPIO 13 | Relay          |
 | **D5**      | GPIO 14 | Relay          |
 
-### Schematic NodeMCU / Wemos
+# Schematic NodeMCU / Wemos
 <img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/schematic.png" width="350px"> <img src="https://raw.githubusercontent.com/renat2985/esp8266_control_servo_and_esc/master/tutorial/schematic2.png" width="350px">
 
 
