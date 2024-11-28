@@ -8,6 +8,14 @@ This project makes it easy to control servos and electronic speed controllers (E
 
 # Upload instruction
 
+## 🚀 Web installer (recommended)
+
+### Go to the web installer and follow instructions.
+
+### [https://renat2985.github.io/bitball.club/](https://renat2985.github.io/bitball.club/)
+
+## or NodeMCU Flasher
+
 #### Specification .bin files
 ```
 Module: Generic ESP8266 Module
